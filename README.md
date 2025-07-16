@@ -15,14 +15,6 @@ A sleek, responsive video streaming platform built using **Next.js** for SSR and
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Video Player | Subscription Page |
-|----------|--------------|-------------------|
-| ![Home](https://your-image-url.com/home.png) | ![Player](https://your-image-url.com/player.png) | ![Subscription](https://your-image-url.com/subscription.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/)  
